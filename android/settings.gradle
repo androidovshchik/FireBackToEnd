@@ -1,2 +1,3 @@
+include ':firestore'
 include ':app'
 rootProject.name = "FireBackToEnd"
